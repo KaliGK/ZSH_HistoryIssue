@@ -11,7 +11,7 @@ What It Does
 - Reloads the cleaned history into your current shell session
 
 How to install:
-<pre>git clone https://github.com/KaliGK/ZSH_HistoryIssue/autoclean_zsh_history.sh</pre>
+<pre>git clone https://github.com/alexcuende/ZSH_HistoryIssue/autoclean_zsh_history.sh</pre>
 
 Make the script executable:
 <pre>chmod +x autoclean_zsh_history.sh</pre>
